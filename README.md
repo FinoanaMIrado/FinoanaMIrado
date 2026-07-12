@@ -19,7 +19,7 @@ I am passionate about software engineering, full-stack development, and desktop 
   <tr>
     <td><strong>Backend</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=php,java" />
+      <img src="https://skillicons.dev/icons?i=php,java,mysql" />
     </td>
   </tr>
 

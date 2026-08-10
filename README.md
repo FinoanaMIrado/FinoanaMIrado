@@ -54,16 +54,16 @@ Coming soon...
 
 ---
 
-## GitHub Statistics
+<!--## GitHub Statistics
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats 
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FinoanaMIrado&show_icons=true" />
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FinoanaMIrado&layout=compact" />
 </p>
 
 ---
-
+-->
 ## Contribution Graph
 
 <!-- Snake Animation -->

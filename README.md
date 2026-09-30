@@ -1,5 +1,5 @@
 # FINOANA Mirado Rivoharison
-
+![Profile Views](https://komarev.com/ghpvc/?username=TON_USERNAME&color=blue)
 Software Engineering Student
 
 I am passionate about software engineering, full-stack development, and desktop application development. I enjoy designing scalable applications, learning modern technologies, and continuously improving my programming skills through personal and academic projects.

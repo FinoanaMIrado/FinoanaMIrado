@@ -1,8 +1,4 @@
 # FINOANA Mirado Rivoharison
-![Profile Views](https://komarev.com/ghpvc/?username=FinoanaMIrado&color=blue)
-
----
-
 
 Software Engineering Student
 

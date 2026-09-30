@@ -12,7 +12,7 @@ I am passionate about software engineering, full-stack development, and desktop 
   <tr>
     <td width="180"><strong>Frontend</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,tsx,react,vue,tailwind" />
     </td>
   </tr>
 

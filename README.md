@@ -5,6 +5,8 @@ Software Engineering Student
 I am passionate about software engineering, full-stack development, and desktop application development. I enjoy designing scalable applications, learning modern technologies, and continuously improving my programming skills through personal and academic projects.
 
 ---
+<img width="354" height="200" alt="buggss_under_10mb" src="https://github.com/user-attachments/assets/84f87cc7-40f4-4019-beaa-18e196e2a1df" />
+---
 
 ## Tech Stack
 
@@ -47,7 +49,7 @@ I am passionate about software engineering, full-stack development, and desktop 
 </p>
 
 ---
-<img width="354" height="200" alt="buggss_under_10mb" src="https://github.com/user-attachments/assets/84f87cc7-40f4-4019-beaa-18e196e2a1df" />
+
 ## Featured Projects
 
 Webuko

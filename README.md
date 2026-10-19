@@ -6,7 +6,7 @@ I am passionate about software engineering, full-stack development, and desktop 
 
 ---
 <img width="354" height="200" alt="buggss_under_10mb" src="https://github.com/user-attachments/assets/84f87cc7-40f4-4019-beaa-18e196e2a1df" />
----
+
 
 ## Tech Stack
 

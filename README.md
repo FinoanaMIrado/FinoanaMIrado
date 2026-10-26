@@ -64,5 +64,7 @@ I am passionate about software engineering, full-stack development, and desktop 
 
 ---
 <a href="mailto:finoanarivoharison@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+<a href="mailto:finoanarivoharison@gmail.com"><img src="https://img.shields.io/badge/Linkedin-D14836?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+
 
 
